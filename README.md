@@ -1,5 +1,5 @@
 # Time-to-event analysis of blp data with R
-## A survival analysis of time-to-event data: the data for the British Lexicon Project.
+**A survival analysis of time-to-event data: the data for the British Lexicon Project.
 <br>
 
 * Survival analysis:<br>
