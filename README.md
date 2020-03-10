@@ -10,9 +10,7 @@ The British Lexicon Project (henceforth BLP) is a large-scale database of lexica
 
 ### Analysis:
 
-* [Data inspection]()
-
-* [Objective functions]()
+* [Data inspection and Objective functions]()
 
 * [Categorical predictors]()
 
@@ -20,7 +18,14 @@ The British Lexicon Project (henceforth BLP) is a large-scale database of lexica
 
 * [Multiple predictors]()
 
+
 #### R notes
+
+* [prep]()
+
+#### View on Kaggle
+
+* [@xujinghua]()
 
 
 
