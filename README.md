@@ -14,7 +14,7 @@ The British Lexicon Project (henceforth BLP) is a large-scale database of lexica
 
 * [Categorical predictors](https://github.com/JINHXu/blp_t2e/blob/master/t2e_blp.ipynb)
 
-* [Numerical predictors]()
+* [Numerical predictors](https://github.com/JINHXu/blp_t2e/blob/master/t2e_blp_numerical_predictors.ipynb)
 
 * [Multiple predictors]()
 
