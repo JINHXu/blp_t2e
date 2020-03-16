@@ -21,7 +21,7 @@ The British Lexicon Project (henceforth BLP) is a large-scale database of lexica
 
 #### R notes
 
-* [prep]()
+* [prep](https://github.com/JINHXu/blp_t2e/blob/master/t2e-8-nov.ipynb)
 
 #### View on Kaggle
 
