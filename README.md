@@ -10,9 +10,9 @@ The British Lexicon Project (henceforth BLP) is a large-scale database of lexica
 
 ### Analysis:
 
-* [Data inspection and Objective functions]()
+* [Data inspection and Objective functions](https://github.com/JINHXu/blp_t2e/blob/master/t2e_blp.ipynb)
 
-* [Categorical predictors]()
+* [Categorical predictors](https://github.com/JINHXu/blp_t2e/blob/master/t2e_blp.ipynb)
 
 * [Numerical predictors]()
 
