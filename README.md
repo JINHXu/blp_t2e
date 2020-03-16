@@ -25,7 +25,7 @@ The British Lexicon Project (henceforth BLP) is a large-scale database of lexica
 
 #### View on Kaggle
 
-* [@xujinghua]()
+* [@xujinghua](https://www.kaggle.com/xujinghua)
 
 
 
